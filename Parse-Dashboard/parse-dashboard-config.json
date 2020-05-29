@@ -1,9 +1,9 @@
 {
   "apps": [
     {
-      "serverURL": "http://localhost:1338/parse",
-      "appId": "hello",
-      "masterKey": "world",
+      "serverURL": "https://datemeparse.herokuapp.com",
+      "appId": "29651052911622601459",
+      "masterKey": "14797096990648050143",
       "appName": "",
       "iconName": "",
       "primaryBackgroundColor": "",
